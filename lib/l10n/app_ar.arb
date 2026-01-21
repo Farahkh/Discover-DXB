@@ -1,0 +1,25 @@
+{
+  "appTitle": "اكتشف دبي",
+  "discoverButton": "اكتشف",
+  "homePage": "الصفحة الرئيسية",
+  "directory": "الدليل",
+  "english": "English",
+  "arabic": "العربية",
+  "discoverDxbDirectory": "دليل اكتشف دبي",
+  "dubai": "دبي",
+  "abuDhabi": "أبو ظبي",
+  "sharjah": "الشارقة",
+  "burjKhalifa": "برج خليفة",
+  "burjKhalifaDescription": "أطول مبنى في العالم يقع في دبي.",
+  "dubaiMall": "مول دبي",
+  "dubaiMallDescription": "أحد أكبر مراكز التسوق في العالم.",
+  "palmJumeirah": "نخلة جميرا",
+  "palmJumeirahDescription": "نخلة في البحر، معروفة بفنادقها ومساكنها الفاخرة.",
+  "noTitle": "لا يوجد عنوان",
+  "noImageFound": "لم يتم العثور على صورة",
+  "emptyDescription": " ",
+  "favorite": "المفضلة",
+  "selectLanguage": "اختر اللغة",
+  "switchLanguage": "تبديل اللغة"
+}
+

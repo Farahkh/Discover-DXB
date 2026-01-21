@@ -1,0 +1,24 @@
+{
+  "appTitle": "Discover DXB",
+  "discoverButton": "Discover",
+  "homePage": "Home Page",
+  "directory": "Directory",
+  "english": "English",
+  "arabic": "العربية",
+  "discoverDxbDirectory": "Discover DXB Directory",
+  "dubai": "Dubai",
+  "abuDhabi": "Abu Dhabi",
+  "sharjah": "Sharjah",
+  "burjKhalifa": "Burj Khalifa",
+  "burjKhalifaDescription": "The tallest building in the world located in Dubai.",
+  "dubaiMall": "The Dubai Mall",
+  "dubaiMallDescription": "One of the largest shopping malls in the world.",
+  "palmJumeirah": "Palm Jumeirah",
+  "palmJumeirahDescription": "A palm inside the sea, known for its luxury hotels and residences.",
+  "noTitle": "No Title",
+  "noImageFound": "no image found",
+  "favorite": "Favorite",
+  "selectLanguage": "Select Language",
+  "switchLanguage": "Switch Language"
+}
+
